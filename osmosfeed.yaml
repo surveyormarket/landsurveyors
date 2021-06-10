@@ -1,12 +1,12 @@
- cacheUrl: https://surveyormarket.github.io/landsurveyors/cache.json
+cacheUrl: https://surveyormarket.github.io/landsurveyors/cache.json
 sources:
-  - href: http://feeds.feedburner.com/Africa-LandSurveyorJobs # Get new feature announcement via this feed
-  - href: http://feeds.feedburner.com/USA-SurveyingJobs
-  - href: http://feeds.feedburner.com/Asia-SurveyingJobs
-  - href: https://www.freecodecamp.org/news/rss/
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://feeds.feedburner.com/Africa-LandSurveyorJobs/
+  - href: http://feeds.feedburner.com/USA-SurveyingJobs/
+  - href: http://feeds.feedburner.com/Asia-SurveyingJobs/
+  - href: http://feeds.feedburner.com/Oceania-SurveyingJobs/
+  - href: http://feeds.feedburner.com/Europe-SurveyingJobs/
+  - href: http://feeds.feedburner.com/MiddleEast-SurveyingJobs/
+  - href: http://feeds.feedburner.com/NAmerica-SurveyingJobs/
+  - href: http://feeds.feedburner.com/SAmerica-SurveyingJobs/
+  - href: http://feeds.feedburner.com/India-SurveyingJobs/
+  - href: https://jobs.landsurveyorsunited.org/feed/
