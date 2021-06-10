@@ -1,6 +1,12 @@
  cacheUrl: https://surveyormarket.github.io/landsurveyors/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: http://feeds.feedburner.com/Africa-LandSurveyorJobs # Get new feature announcement via this feed
+  - href: http://feeds.feedburner.com/USA-SurveyingJobs
+  - href: http://feeds.feedburner.com/Asia-SurveyingJobs
+  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://css-tricks.com/feed/
+  - href: https://www.smashingmagazine.com/feed/
+  - href: https://www.freecodecamp.org/news/rss/
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
