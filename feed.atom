@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>urn:2021-06-10T18:28:59.504Z</id>
+    <title>osmos::feed</title>
+    <updated>2021-06-10T18:28:59.504Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
+    <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Useful Front-End Boilerplates And Starter Kits]]></title>
+        <id>https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/</id>
+        <link href="https://smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/"/>
+        <updated>2021-06-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We don’t need to write everything from scratch every single time. With boilerplates and starter kits, we can set up our projects faster, and get to work immediately.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equal Columns With Flexbox: It’s More Complicated Than You Might Think]]></title>
+        <id>https://css-tricks.com/?p=341894</id>
+        <link href="https://css-tricks.com/equal-columns-with-flexbox-its-more-complicated-than-you-might-think/"/>
+        <updated>2021-06-10T14:34:22.000Z</updated>
+        <summary type="html"><![CDATA[As awesome as flexbox is, what it’s doing under the hood is actually a little strange because, by default, it is doing two things at once. It first looks at the content size which is what we would get if by declaring width: max-content on an element. But on top of that, flex-shrink is also doing some work allowing the items to be smaller, but only if needed.
+Let’s break those two down and see how they work together.
+The post Equal Columns With Flexbox: It’s More Complicated Than You Might Think appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Kevin Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Headless CMS with Fauna and Vercel Functions]]></title>
+        <id>https://css-tricks.com/?p=342182</id>
+        <link href="https://css-tricks.com/building-a-headless-cms-with-fauna-and-vercel-functions/"/>
+        <updated>2021-06-10T14:26:47.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn and use headless CMS, Fauna, and Vercel functions to build a blogging platform, Blogify After that, you can easily build any web application using a headless CMS, Fauna and Vercel functions.
+The post Building a Headless CMS with Fauna and Vercel Functions appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ikeh Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Data Fundamentals Certification (DP-900) – Pass the Exam With This Free 4.5-Hour Course]]></title>
+        <id>60b93afaacb62507dd1d8915</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-dp-900-pass-the-exam-with-this-free-4-5-hour-course/"/>
+        <updated>2021-06-10T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[You can learn everything you need to know to earn the Azure Data Fundamentals certification by completing this free 4.5 hour course. What is the Azure Data Fundamentals Certification?The Azure Data Fundamentals Certification is for those seeking a data-related role such as Data Analyst, Data Engineer, or Data]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Front-End Auditing Tools I Discovered Recently]]></title>
+        <id>https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/</id>
+        <link href="https://smashingmagazine.com/2021/06/three-frontend-auditing-tools/"/>
+        <updated>2021-06-10T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Building a faster website can be a rocket task these days. There are so many things to consider, so it’s challenging to get everything right. Here are some less-known tools that might help you get there.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Stefan Judis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From the Slums of Mumbai to a Rented Apartment – My 30-Year Developer Journey]]></title>
+        <id>60b357ad11ffb70827ef9a90</id>
+        <link href="https://www.freecodecamp.org/news/my-journey-into-tech-from-slums-of-mumbai-to-my-own-apartment/"/>
+        <updated>2021-06-09T21:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Last year I tweeted about how I was moving from a Slum where I lived for 29 years to a multi-story rented apartment.  The tech community on Twitter responded with nothing but love. Dan Wahlin posted that he would love to hear more about my story. It's not going to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Cornucopia of Container Queries]]></title>
+        <id>https://css-tricks.com/?p=340967</id>
+        <link href="https://css-tricks.com/a-cornucopia-of-container-queries/"/>
+        <updated>2021-06-09T20:37:00.000Z</updated>
+        <summary type="html"><![CDATA[I don’t know about y’all, but my feeds have been flooded with articles about CSS Container Queries these past few weeks. The buzz about container queries actually started back in December after Miriam Suzanne posted a proposal (picking up on …
+The post A Cornucopia of Container Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Skills You Need to Start Freelancing as a Developer]]></title>
+        <id>60c0ccbed3126007592d5781</id>
+        <link href="https://www.freecodecamp.org/news/the-skills-you-need-to-start-freelancing/"/>
+        <updated>2021-06-09T19:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Here's the bottom line: you don't need much to get started as a freelance developer.  The biggest obstacle developers face when they're thinking about getting started is that they tend to overcomplicate things.  Most are intimidated by the sheer number of different paths or skills deemed necessary by various blog]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Bootstrap 5 and SASS by Building a Portfolio Website]]></title>
+        <id>60c10a1dd3126007592d5988</id>
+        <link href="https://www.freecodecamp.org/news/learn-bootstrap-5-and-sass-by-building-a-portfolio-website/"/>
+        <updated>2021-06-09T18:43:07.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is one of the most popular CSS frameworks and Sass is one of the most popular preprocessors for CSS. We just released a course on the freeCodeCamp.org YouTube channel that will teach you about Bootstrap 5 and Sass by building a portfolio website. Patrick Muriungi developed this course.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[target=blank]]></title>
+        <id>https://css-tricks.com/?p=341916</id>
+        <link href="https://css-tricks.com/targetblank/"/>
+        <updated>2021-06-09T14:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Does that make your eye twitch a little bit? Like… it’s a typo. It should be target="_blank" with an underscore to start the value. As in…
+<a target="_blank" href="https://codepen.io"Open CodePen in a New Tab
+</a
+Welp, that’s correct syntax!…
+The post target=blank appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet <code>:has</code>, A Native CSS Parent Selector (And More)]]></title>
+        <id>https://smashingmagazine.com/2021/06/has-native-css-parent-selector/</id>
+        <link href="https://smashingmagazine.com/2021/06/has-native-css-parent-selector/"/>
+        <updated>2021-06-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes relational selector one of the most requested features and how are we, as developers, working around not having it? In this article, we’re going to check the early spec of the :has selector, and see how it should improve the CSS workflow once it’s released.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Deploy Your freeCodeCamp Project on AWS – A Beginner&#x27;s Guide to the Cloud]]></title>
+        <id>60bfa4d4d3126007592d5160</id>
+        <link href="https://www.freecodecamp.org/news/how-to-deploy-your-freecodecamp-project-on-aws/"/>
+        <updated>2021-06-08T23:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Throughout this post we’ll deploy your freeCodeCamp front end project using various services on AWS like S3, ElasticBeanstalk, and Lambda.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Your Own Electronics With Arduino - Full Course]]></title>
+        <id>60bfd986d3126007592d53a1</id>
+        <link href="https://www.freecodecamp.org/news/create-your-own-electronics-with-arduino-full-course/"/>
+        <updated>2021-06-08T21:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looking at WCAG 2.5.5 for Better Target Sizes]]></title>
+        <id>https://css-tricks.com/?p=341982</id>
+        <link href="https://css-tricks.com/looking-at-wcag-2-5-5-for-better-target-sizes/"/>
+        <updated>2021-06-08T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever experienced the frustration of trying to tap a button on a mobile device only to have it do nothing because the target size is just not large enough **and it’s not picking up on your press? Maybe …
+The post Looking at WCAG 2.5.5 for Better Target Sizes appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Todd Libby</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Pass Data and Events Between Components in React]]></title>
+        <id>60b23b8911ffb70827ef954e</id>
+        <link href="https://www.freecodecamp.org/news/pass-data-between-components-in-react/"/>
+        <updated>2021-06-08T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[If you're trying to implement CRUD operations using API endpoints, you might find that it's hard to manage data across multiple components. Or maybe you have a modal, but you want to trigger it from a different component.  Wrapping your head around how to tackle these scenarios can be difficult.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Complete CSS Grid Tutorial with Cheat Sheet 🎖️]]></title>
+        <id>60be6a3cd3126007592d4a03</id>
+        <link href="https://www.freecodecamp.org/news/css-grid-tutorial-with-cheatsheet/"/>
+        <updated>2021-06-08T16:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Today we're going to learn CSS Grid properties so that you can make your own responsive websites. I'll explain how each of Grid's properties work along with a CheatSheet that covers everything you can do with Grid. Let's go. 🎖️ Table of Contents: CSS Grid Architecture CSS Grid Chart Grid Parent]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Trickz: An Experiment with Netlify’s On-Demand Builders]]></title>
+        <id>https://css-tricks.com/?p=341884</id>
+        <link href="https://alex.party/posts/2021-05-31-css-trickz-an-experiment-with-netlify-s-on-demand-builders/"/>
+        <updated>2021-06-08T14:16:07.000Z</updated>
+        <summary type="html"><![CDATA[WordPress sites have an API by default. Wanna see this site’s most recent posts, with just a specific set of data… in JSON format? Here ya go. Alex Riviere made a joke site using that.
+At first, the site …
+The post CSS-Trickz: An Experiment with Netlify’s On-Demand Builders appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From AVIF to WebP: A New Smashing Book By Addy Osmani]]></title>
+        <id>https://smashingmagazine.com/2021/06/image-optimization-book-release/</id>
+        <link href="https://smashingmagazine.com/2021/06/image-optimization-book-release/"/>
+        <updated>2021-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s here! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our deep-dive guide to understand how to deliver high-quality images on the web fast.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Stack Development with Next.js and Supabase – The Complete Guide]]></title>
+        <id>60bbd28eacb62507dd1d99fb</id>
+        <link href="https://www.freecodecamp.org/news/the-complete-guide-to-full-stack-development-with-supabas/"/>
+        <updated>2021-06-07T23:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build full stack serverless apps with Supabase and Next.js.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use OpenCV and Python for Computer Vision and AI]]></title>
+        <id>60be863cd3126007592d4c36</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-opencv-and-python-for-computer-vision-and-ai/"/>
+        <updated>2021-06-07T20:54:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenCV is a popular Python library for real-time computer vision. We just released a new OpenCV course on the freeCodeCamp.org YouTube channel. This course comes directly from the creators of OpenCV and is the perfect course for beginners.  You will learn how to use OpenCV for Computer Vision and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Links on Accessibility]]></title>
+        <id>https://css-tricks.com/?p=341805</id>
+        <link href="https://css-tricks.com/links-on-accessibility/"/>
+        <updated>2021-06-07T19:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Show/Hide password accessibility and password hints tutorial — Nicolas Steenhout goes deep on <input type="password"> accessibility. For one thing, being able to toggle it to type="text" should be possible, while announcing, politely, the change. But also, put the password hints 
+…
+The post Links on Accessibility appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VS Code Extensions for HTML]]></title>
+        <id>https://css-tricks.com/?p=340390</id>
+        <link href="https://css-tricks.com/vs-code-extensions-for-html/"/>
+        <updated>2021-06-07T14:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Let’s look at some extensions for VS Code that make writing and editing HTML (and languages that are basically HTML with extra powers) better. You may not like all of them. Maybe some of them don’t appeal to you, solve …
+The post VS Code Extensions for HTML appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build A Geocoding App In Vue.js Using Mapbox]]></title>
+        <id>https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/</id>
+        <link href="https://smashingmagazine.com/2021/06/building-geocoding-app-vue-mapbox/"/>
+        <updated>2021-06-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, we’ll be taking a general look at the concepts of forward geocoding and reverse geocoding, and will build a mini-app that applies these concepts to display specific locations, using Mapbox and Vue.js 2.6.11 to achieve this.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Prince Chukwudire)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Principles for user-centered front-end development]]></title>
+        <id>https://css-tricks.com/?p=341793</id>
+        <link href="https://colinoakley.medium.com/the-web-we-choose-to-build-e921510e3f1b"/>
+        <updated>2021-06-04T20:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Colin Oakley:
+• Accessible — Use semantic HTML, and make sure we meet the WCAG 2.1 AA standard as a minimum and it works with assisted technologies (this sits alongside the DWP Accessibility Manual)
+• Agnostic — Build 
+…
+The post Principles for user-centered front-end development appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can I :has()]]></title>
+        <id>https://css-tricks.com/?p=341968</id>
+        <link href="https://bkardell.com/blog/canihas.html"/>
+        <updated>2021-06-04T14:37:59.000Z</updated>
+        <summary type="html"><![CDATA[I just joked that we’re basically getting everything we want in CSS super fast (mostly referring to container queries, my gosh, can you imagine they are actually coming?). Now we might actually get parent selectors?! As in .parent:has(.child) { …
+The post Can I :has() appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Webpack]]></title>
+        <id>https://smashingmagazine.com/2021/06/getting-started-webpack/</id>
+        <link href="https://smashingmagazine.com/2021/06/getting-started-webpack/"/>
+        <updated>2021-06-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern browsers provide good support for JavaScript modules, but module bundlers such as webpack stay a critical part of the JavaScript toolchain. Let’s take a deep dive into what webpack is and how to use it in your development workflow.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries]]></title>
+        <id>https://css-tricks.com/?p=341584</id>
+        <link href="https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"/>
+        <updated>2021-06-03T14:25:57.000Z</updated>
+        <summary type="html"><![CDATA[A little while back, Chris shared this nice hexagonal grid. And true to its name, it’s using —wait for it — CSS Grid to form that layout. It’s a neat trick! Combining grid columns, grid gaps, and creative clipping …
+The post Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitoring Lighthouse Scores and Core Web Vitals with DebugBear]]></title>
+        <id>https://css-tricks.com/?p=341494</id>
+        <link href="https://css-tricks.com/monitoring-lighthouse-scores-and-core-web-vitals-with-debugbear/"/>
+        <updated>2021-06-03T14:25:19.000Z</updated>
+        <summary type="html"><![CDATA[DebugBear takes just a few seconds to start using. You literally point it at a URL you want to watch, and it’ll start watching it. You install nothing.
+It’ll start running tests, and you’ve immediately got performance charts you can …
+The post Monitoring Lighthouse Scores and Core Web Vitals with DebugBear appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Managing Shared State In Vue 3]]></title>
+        <id>https://smashingmagazine.com/2021/06/managing-shared-state-vue3/</id>
+        <link href="https://smashingmagazine.com/2021/06/managing-shared-state-vue3/"/>
+        <updated>2021-06-03T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Writing large-scale Vue applications can be a challenge. In this article, Shawn Wildermuth dives into the pros and cons of approaches like factories, shared objects, and using Vuex. He also explains what is coming in Vuex 5.0 that might change how we all use shared state in Vue 3.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shawn Wildermuth)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging iOS Safari]]></title>
+        <id>https://css-tricks.com/?p=341724</id>
+        <link href="https://css-tricks.com/debugging-ios-safari/"/>
+        <updated>2021-06-02T21:15:28.000Z</updated>
+        <summary type="html"><![CDATA[How do I debug Safari on iOS?
+These are my general steps, starting with not even using iOS Safari.
+1. Is this just a small-screen problem?
+Lemme just use the device mode in Chrome quick.
+Note that this does a …
+The post Debugging iOS Safari appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Crash Course in WordPress Block Filters]]></title>
+        <id>https://css-tricks.com/?p=341442</id>
+        <link href="https://css-tricks.com/a-crash-course-in-wordpress-block-filters/"/>
+        <updated>2021-06-02T13:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Blocks in WordPress are great. Drop some into the page, arrange them how you like, and you’ve got a pretty sweet landing page with little effort. But what if the default blocks in WordPress need a little tweaking? Like, what …
+The post A Crash Course in WordPress Block Filters appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Dmitry Mayorov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Custom Properties a “Menu of What Will Change”?]]></title>
+        <id>https://css-tricks.com/?p=341572</id>
+        <link href="https://css-tricks.com/are-custom-properties-a-menu-of-what-will-change/"/>
+        <updated>2021-06-02T13:35:40.000Z</updated>
+        <summary type="html"><![CDATA[PPK laid out an interesting situation in “Two options for using custom properties” where he and Stefan Judis had two different approaches for doing the same thing with custom properties. In one approach, hover and focus styles for a …
+The post Are Custom Properties a “Menu of What Will Change”? appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Fix Cumulative Layout Shift (CLS) Issues]]></title>
+        <id>https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/</id>
+        <link href="https://smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/"/>
+        <updated>2021-06-02T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Core Web Vitals initiative has taken the SEO and Web Performance worlds by storm and many sites are busy optimizing their Page Experience to maximize the ranking factor. The Cumulative Layout Shift metric is causing trouble to a lot of sites, so let’s have a look at ways of addressing any issues for that metric.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improving The Performance Of An Online Store (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/</id>
+        <link href="https://smashingmagazine.com/2021/06/front-end-performance-online-store-jewellerybox/"/>
+        <updated>2021-06-02T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a good performance score from Google is hard for any website — but doing so for an online store is even harder. We achieved green scores — even several for mobile. Here is how we did it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jennifer Brehm)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 38 With Ivan Akulov: Why Is My React App Slow?]]></title>
+        <id>https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/</id>
+        <link href="https://smashingmagazine.com/2021/06/smashing-podcast-episode-38/"/>
+        <updated>2021-06-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about React performance. What factors slow our React apps down, and how can we fix it? Drew McLellan talks to expert Ivan Akulov to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up A Currency Convertor With ExchangeRatesApi.io]]></title>
+        <id>https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/</id>
+        <link href="https://smashingmagazine.com/2021/06/currency-convertor-exchangeratesapi/"/>
+        <updated>2021-06-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon allows visitors to display prices in their own currency. Thanks to *ExchangeRatesApi.io*, we can do the same for our online shops, providing a better experience to our customers. Let’s find out how.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Leonardo Losoviz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.10.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.10.2"/>
+        <updated>2021-06-01T04:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Added: testing and CI/CD workflows]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy June Vibes For Your Screen (2021 Desktop Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/</id>
+        <link href="https://smashingmagazine.com/2021/05/desktop-wallpaper-calendars-june-2021/"/>
+        <updated>2021-05-31T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[What could be a better way to welcome June than with some colorful inspiration? Well, we might have something for you: wallpapers created with love by artists and designers from across the globe.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding A Commenting System To A WYSIWYG Editor]]></title>
+        <id>https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/</id>
+        <link href="https://smashingmagazine.com/2021/05/commenting-system-wysiwyg-editor/"/>
+        <updated>2021-05-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we’ll be re-using the foundational WYSIWYG Editor built in the first article to build a commenting system for a WYSIWYG Editor that enables users to select text inside a document and share their comments on it. Let’s dig in!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful VS Code Extensions For Front-End Developers]]></title>
+        <id>https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/</id>
+        <link href="https://smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/"/>
+        <updated>2021-05-27T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Meet useful Visual Studio Code extensions for web developers: little helpers to minimize slow-downs and frustrations, and boost developer’s workflow along the way. With auto log messages, auto code formatting, file utils, file labels, code snippets, highlight brackets, tags, indents and workspaces, onboarding and remote SSH.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Build And Launch Powerful Responsive Websites With Editor X]]></title>
+        <id>https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/</id>
+        <link href="https://smashingmagazine.com/2021/05/build-launch-responsive-websites-editorx/"/>
+        <updated>2021-05-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While web builders have been around for a long time, it wasn’t until recently that they became practical for professional use. Closing the gap between design and code has become the north star for many companies and we are seeing a wave of tools that deliver on this promise.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Miroslav Bekyarov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible SVGs: Perfect Patterns For Screen Reader Users]]></title>
+        <id>https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/</id>
+        <link href="https://smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/"/>
+        <updated>2021-05-26T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Discover which SVG patterns we should avoid and which patterns are the most inclusive when comparing different combinations of OSs, browsers, and screen readers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Carie Fisher)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.9.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.9.0"/>
+        <updated>2021-05-26T06:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Added: experimental support for iTunes podcast feed: Demo | Source. With this new release, you can render an audio control to play the mp3 file and display iTunes episode duration. It is "experimental" due to these caveats:
+
+This feature is currently only available through custom template.
+iTunes has no strict format requirement for duration. The unit is most likely seconds but can be "hh:mm:ss" or "mm:ss" for some sources. A future version may expose a human readable string to the template.
+No image support yet. Some shows might have disabled CORS or use a relative URL for image, which forces osmosfeed to download the image during build. A future version may support it.
+You can't republish the podcast in the feed output. Supporting this goes beyond the scope of the project at the moment.
+Fixed: the articles in template data were not sorted.
+Thank you @Zenigata]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/</id>
+        <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part2/"/>
+        <updated>2021-05-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mistakes. These cruel villains do not even stop at the beautiful world of software development. But although we cannot avoid making mistakes, we can learn to undo them! This post will show the right tools for your daily work with Git.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Tobias Günther)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A New Way To Reduce Font Loading Impact: CSS Font Descriptors]]></title>
+        <id>https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/</id>
+        <link href="https://smashingmagazine.com/2021/05/reduce-font-loading-impact-css-descriptors/"/>
+        <updated>2021-05-25T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Web fonts are often terrible for web performance and none of the font loading strategies are particularly effective to address that. Upcoming font options may finally deliver on the promise of making it easier to align fallback fonts to the final fonts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Barry Pollard)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries: Use-Cases And Migration Strategies]]></title>
+        <id>https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/</id>
+        <link href="https://smashingmagazine.com/2021/05/css-container-queries-use-cases-migration-strategies/"/>
+        <updated>2021-05-24T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[CSS Container queries bring media queries closer to the target elements themselves and enables them to adapt to virtually any given container or layout. In this article, we’re going to cover CSS container query basics and how to use them today with progressive enhancement or polyfills.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.1"/>
+        <updated>2021-05-23T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: UnhandledPromiseRejectionWarning: Error: At least one option must be a string]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.8.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.8.0"/>
+        <updated>2021-05-23T05:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Changed: Smart summary truncation. When there is no dedicated summary (only Atom feed has it, and many sites don't use it) from the source, we check if the content/description (Both Atom and RSS) field is long enough to be full text. If so, it will be truncated into a "pseudo" summary. If not, we assume the source used the content field as summary, and it will be displayed in full length.
+Thank you: @LooperXX.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building A Rich Text Editor (WYSIWYG)]]></title>
+        <id>https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/</id>
+        <link href="https://smashingmagazine.com/2021/05/building-wysiwyg-editor-javascript-slatejs/"/>
+        <updated>2021-05-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s build a rich text, WYSIWYG-editor that supports rich text, images, links and some nuanced features from word processing apps. We will use SlateJS to build the shell of the editor and then add a toolbar and custom configurations.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shalabh Vyas)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boost Your Skills Online: Smashing Workshops On Front-End And Design]]></title>
+        <id>https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/</id>
+        <link href="https://smashingmagazine.com/2021/05/new-online-workshops-front-end-ux/"/>
+        <updated>2021-05-20T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Front-end and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run online workshops for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Implement Authentication In Next.js With Auth0]]></title>
+        <id>https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/</id>
+        <link href="https://smashingmagazine.com/2021/05/implement-authentication-nextjs-auth0/"/>
+        <updated>2021-05-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A step-by-step tutorial on adding authentication and authorization to your Next.js apps, with Auth0. We’ll be using a Next.js SDK to connect our application to the Auth0 API and will create the dynamic API route for React.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Facundo Giuliani)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns: Mega-Dropdown Hover Menus]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-mega-dropdown-hover-menus/"/>
+        <updated>2021-05-19T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Everything to keep in mind when designing and building a mega-dropdown, common pitfalls, hover entry/exit delays, trajectory triangle technique and SVG path exit areas.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Create, Edit And Animate SVGs All In One Place With SVGator 3.0]]></title>
+        <id>https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/</id>
+        <link href="https://smashingmagazine.com/2021/05/create-edit-animate-svg-svgator3/"/>
+        <updated>2021-05-18T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are taking a closer look at [SVGator 3.0](https://www.svgator.com/?utm_source=article&utm_medium=smashingmag&utm_campaign=svgator3_smashing), a new major release of the popular SVG application that lets you create, edit and animate SVG files and make the best out of what SVG has to offer — from start to finish.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mikołaj Dobrucki)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 37 With Adam Argyle: What Is VisBug?]]></title>
+        <id>https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/</id>
+        <link href="https://smashingmagazine.com/2021/05/smashing-podcast-episode-37/"/>
+        <updated>2021-05-18T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this episode, we’re talking about VisBug. What is it, and how is it different from the array of options already found in Chrome DevTools? Drew McLellan talks to its creator Adam Argyle to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Improved Our Core Web Vitals (Case Study)]]></title>
+        <id>https://smashingmagazine.com/2021/05/core-web-vitals-case-study/</id>
+        <link href="https://smashingmagazine.com/2021/05/core-web-vitals-case-study/"/>
+        <updated>2021-05-17T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google’s “Page Experience Update” will start rolling out in June. At first, sites that meet Core Web Vitals thresholds will have a minor ranking advantage in mobile search for all browsers. Search is important to any business, and this is the story of how Beau Hartshorne and his team at Instant Domain Search improved their Core Web Vitals scores.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Beau Hartshorne)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.2"/>
+        <updated>2021-05-17T05:32:19.000Z</updated>
+        <summary type="html"><![CDATA[⚠ Deprecated: To accommodate the monorepo setup, the node version in all templates/demos/examples has changed from 14 to 16. This is not a breaking change as our compile target is still node 14, and node 16 is backward compatible. We still recommend you start using node-version: "16" in your .github/workflows/update-feed.yaml today to get the performance/security improvements from the newer node. See example
+Chore: Reorganize to monorepo with npm workspace.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.1"/>
+        <updated>2021-05-16T02:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: static files were unnecessarily copied for custom templates.]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.7.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.7.0"/>
+        <updated>2021-05-16T01:42:24.000Z</updated>
+        <summary type="html"><![CDATA[Added: templating system. Demo | Source | Docs
+Chore: rendering logic refactoring. Adopting functional paradigm.
+Thank you @tianheg, @onnyyonn]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree-Shaking: A Reference Guide]]></title>
+        <id>https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/</id>
+        <link href="https://smashingmagazine.com/2021/05/tree-shaking-reference-guide/"/>
+        <updated>2021-05-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“Tree-shaking” is a must-have performance optimization when bundling JavaScript. In this article, we dive deeper on how exactly it works and how specs and practice intertwine to make bundles leaner and more performant. Plus, you’ll get a tree-shaking checklist to use for your projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Átila Fassina)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frustrating Design Patterns That Need Fixing: Birthday Picker]]></title>
+        <id>https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/</id>
+        <link href="https://smashingmagazine.com/2021/05/frustrating-design-patterns-birthday-picker/"/>
+        <updated>2021-05-12T12:42:00.000Z</updated>
+        <summary type="html"><![CDATA[In this new series of articles on UX, we take a closer look at some frustrating design patterns and explore better alternatives, along with plenty of examples to keep in mind when building or designing one. Let’s start with an infamous birthday picker.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Smashing Stories]]></title>
+        <id>https://smashingmagazine.com/2021/05/little-smashing-stories/</id>
+        <link href="https://smashingmagazine.com/2021/05/little-smashing-stories/"/>
+        <updated>2021-05-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the day we sent out our 300th edition of the Smashing Newsletter. This article is a little celebration in which we share little Smashing stories from people working behind the scenes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+</feed>
