@@ -10,6 +10,12 @@ sources:
   - href: http://feeds.feedburner.com/SAmerica-SurveyingJobs/
   - href: http://feeds.feedburner.com/India-SurveyingJobs/
   - href: https://jobs.landsurveyorsunited.org/feed/
+  - href: http://feeds.feedburner.com/instrumentmanjob/
+  - href: http://feeds.feedburner.com/landsurveytechnicianjobs/
+  - href: http://feeds.feedburner.com/partychiefjobs/
+  - href: http://feeds.feedburner.com/surveyrodmanjobs/
+  - href: http://feeds.feedburner.com/surveyofficejobs/
+  - href: http://feeds.feedburner.com/gis-jobs/
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
 siteTitle: "Land Surveyor Jobs Feeds"
 
