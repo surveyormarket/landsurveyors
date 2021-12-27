@@ -20,6 +20,6 @@ sources:
 siteTitle: "Land Surveyor Jobs Feeds"
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
-cacheMaxDays: 60
+cacheMaxDays: 30
 
 #
