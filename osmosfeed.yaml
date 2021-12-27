@@ -17,7 +17,7 @@ sources:
   - href: http://feeds.feedburner.com/surveyofficejobs/
   - href: http://feeds.feedburner.com/gis-jobs/
 # `siteTitle`: Title to use in the browser tab and the machine readable feed output. (optional)
-siteTitle: "Land Surveyor Jobs Feeds"
+siteTitle: "Land Surveyor Employment Feeds"
 
 # `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (optional)
 cacheMaxDays: 30
